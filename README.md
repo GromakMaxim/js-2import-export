@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/m7rmu2xpla8b8ign/branch/master?svg=true)](https://ci.appveyor.com/project/GromakMaxim/js-2import-export/branch/master)
